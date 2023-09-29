@@ -1,0 +1,264 @@
+body{
+    background-image: url(paper.jpg.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+    border-left: 20px;
+}
+/* navs*/
+nav{
+    background-color: black;
+    padding: 15px 25px;  
+    box-shadow:0 0 5px 3px black; 
+    
+}
+/*End of navs*/
+
+.brand-container{
+    display: inline-block;
+    
+}
+.brand-title{
+    display: inline-block;
+    margin: 0;
+    position: relative;
+    top: -15px;
+    left: 10px;
+    color: white;
+    font-family: Verdana;
+}
+/*link*/
+.links-container{
+    float: right;
+    position: relative;
+    top: 10px;
+}
+
+.links-container1{
+    float: right;
+    position: relative;
+    top: -35px;
+}
+
+.links-container2{
+    float: right;
+    position: relative;
+    top: -35px;
+}
+
+.link{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: Verdana;
+    transition: 0.3s;
+    border-radius: 5px;
+    
+}
+
+.link:hover{
+    background: grey;
+    width: 20px;
+}
+
+.link1{
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: Verdana;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.link1:hover{
+    background: grey;
+}
+
+.link2{
+    
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-family: Verdana;
+    transition: 0.3s;
+    border-radius: 5px;
+}
+
+.link2:hover{
+    background: grey;
+}
+/*end of links*/
+
+/*side bars*/
+.side-bar{
+    width: 185px;
+    height: 100%;
+    position: fixed;
+}
+
+.side-bar1{
+    width: 185px;
+    text-align: center;
+    height: 100%;
+    position: fixed;
+
+}
+
+.side-bar2{
+    width: 170px;
+    text-align: center;
+    height: 100%;
+    position: fixed;
+}
+/*End of side bar*/
+.profile{
+    border-radius: 40px;
+    position: relative;
+    top: 20px;
+}
+
+.main-container{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    top: 30%;
+    left: 200px; 
+}
+
+.sim{
+    text-align: center;
+    position: relative;
+    top: 20%;
+    left: 210px;
+    
+}
+
+.cp-number{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    top: 10%;
+    left: 150px;
+    
+}
+
+.fb-icon{
+    text-align: center;
+    position: relative;
+    top: 13%;
+    left: -10px;
+    
+    
+}
+
+.facebook{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: -2%;
+    left: 160px;  
+}
+
+.gmail-icon{
+    text-align: center;
+    position: relative;
+    top: 6%;
+    left: -90px;
+    
+}
+
+.gmail{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: 4%;
+    left: 160px;  
+}
+
+.father-icon{
+    position: fixed;
+    text-align: center;
+    position: relative;
+    top: 7%;
+    left: 120px;
+}
+
+.father{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: 4%;
+    left: 120px;  
+}
+
+.brother-icon{
+    position: fixed;
+    text-align: center;
+    position: relative;
+    top: 9%;
+    left: -170px;
+}
+
+.brother{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: 4%;
+    left: 100px;  
+}
+
+.brother-icon1{
+    position: fixed;
+    text-align: center;
+    position: relative;
+    top: 9%;
+    left: -170px;
+}
+
+.brother1{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: 4%;
+    left: 100px;  
+}
+
+.scc-logo{
+    position: fixed;
+    text-align: center;
+    position: relative;
+    top: 9%;
+    left: 120px;
+}
+
+.scc{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: 5%;
+    left: 110px;  
+}
+
+.kse-logo{
+    position: fixed;
+    text-align: center;
+    position: relative;
+    top: 9%;
+    left: -170px;
+}
+
+.kse{
+    text-align: center;
+    font-size: 35px;
+    position: relative;
+    bottom: 5%;
+    left: 265px;  
+}
+
+.skills{
+    text-align: center;
+    font-size: 30px;
+    position: relative;
+    top: 30%;
+    left: 200px;  
+}
